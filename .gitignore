@@ -1,0 +1,6 @@
+*.DS_Store
+/api/
+/app/
+/data_map.go
+/meta-g
+*.sh
