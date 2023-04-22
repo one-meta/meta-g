@@ -22,6 +22,8 @@ go >= 1.17
 
 或者任意目录与`data_map.go`同级目录使用 `meta-g`
 
+项目使用建议参考 [meta wiki](https://github.com/one-meta/meta/wiki/)
+
 ### 其他方式（不建议）
 
 **测试**
